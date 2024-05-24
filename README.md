@@ -40,7 +40,7 @@ puts link.to_s  # Output: (90) -> (10) -> (15) -> (30) -> nil
 Contributions are welcome! Please fork the repository and submit a pull request for any changes you'd like to make.
 
 # License
-This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+This project is licensed under the creative commons zero v1.0 universal.
 
 In summary, you are free to:
   - Share: Copy and redistribute the material in any medium or format.
